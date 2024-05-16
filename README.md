@@ -1,7 +1,7 @@
 
-# myMovies
+# PopcornTV
 
-myMovies is a complete MERN stack progressive web app (PWA) for everything related to Movies, Shows, and Artists. The movie database is taken from my [TMDB](https://www.themoviedb.org/) API and built using technologies including [ReactJS](https://reactjs.org/), [ReduxJS/Toolkit](https://redux-toolkit.js.org/), [TailwindCSS](https://tailwindcss.com/), [DaisyUI](https://daisyui.com/), [NodeJS](https://nodejs.org/), [ExpressJS](https://expressjs.com/), and [MongoDB](https://www.mongodb.com/).
+PopcornTV is a complete MERN stack progressive web app (PWA) for everything related to Movies, Shows, and Artists. The movie database is taken from my [TMDB](https://www.themoviedb.org/) API and built using technologies including [ReactJS](https://reactjs.org/), [ReduxJS/Toolkit](https://redux-toolkit.js.org/), [TailwindCSS](https://tailwindcss.com/), [DaisyUI](https://daisyui.com/), [NodeJS](https://nodejs.org/), [ExpressJS](https://expressjs.com/), and [MongoDB](https://www.mongodb.com/).
 
 ## Features
 
